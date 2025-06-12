@@ -1,0 +1,4 @@
+requests
+pynput
+pywin32
+Pillow
